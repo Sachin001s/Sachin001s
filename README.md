@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachin" target="blank"><img src="https://img.shields.io/twitter/follow/sachin?logo=twitter&style=for-the-badge" alt="sachin" /></a> </p>
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **NFT**
 
 - 💬 Ask me about **Solidity , Blockchain Fundamentals**
 
