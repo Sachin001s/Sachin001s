@@ -33,7 +33,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sachin001s&theme=swift&hide_border=false)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin001s&show_icons=true&locale=en" alt="sachin001s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin001s&" alt="sachin001s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin001s&show_icons=true&locale=en&layout=compact" alt="sachin001s" /></p>
+
+
+
 
 
 ### ✍️ Random Dev Quote
