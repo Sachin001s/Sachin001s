@@ -20,7 +20,7 @@
 # 🌐Connect with me:
 <p align="left">
 <a href="https://twitter.com/sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sachin." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-01a60525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin." height="30" width="40" /></a>
 <a href="https://instagram.com/0_sach.in_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_sach.in_0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Inno_Tech_Explorations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Inno_Tech_Explorations" height="30" width="40" /></a>
 </p>
