@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 <h3>🔭 I’m currently working on skills<br><br>
-🌱 I’m currently learning NFT<br><br>
+🌱 I’m currently learning GO Language<br><br>
 💬 Ask me about Solidity , Blockchain Fundamentals<br><br>
 📫 How to reach me sachinofficial823@gmail.com</h3>
 
